@@ -1,0 +1,1 @@
+# Automated-Ransomware-Mitigation-Network-Quarantine---NTI
